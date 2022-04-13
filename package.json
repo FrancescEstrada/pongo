@@ -1,0 +1,25 @@
+{
+  "name": "francescestrada",
+  "source": "src/index.html",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {
+    "lodash": "^4.17.21",
+    "parcel": "^2.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/francescestrada/pongo.git"
+  },
+  "scripts": {
+    "dev": "parcel index.html",
+    "start": "parcel src/index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.0.0"
+  }
+} 
