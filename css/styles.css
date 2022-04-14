@@ -94,7 +94,7 @@ padding-right: 5px;
 padding-left: 5px;
 margin-bottom: 0;
 margin-top: 200px;
-border-top: 2 solid black;
+border-top: 2px solid black;
 
 
 }
@@ -202,7 +202,7 @@ padding-right: 5px;
 padding-left: 5px;
 margin-bottom: 0;
 margin-top: 30px;
-border-top: 2 solid black;
+border-top: 2px solid black;
 }
 .pie-categoria{
   margin-left: 200px;
@@ -264,7 +264,7 @@ border-top: 2 solid black;
 .header-detalle{
   background: rgb(171, 210, 202);
   display: flex;
-  border-bottom: 2 solid black;
+  border-bottom: 2px solid black;
 }
 .div-detalle{
   background: linear-gradient(180deg, rgba(0,0,0,1) -47%, rgba(242,193,164,1) 0%, rgba(255,255,255,1) 72%);
@@ -338,7 +338,7 @@ border-top: 2 solid black;
   padding-left: 5px;
   margin-bottom: 0;
   margin-top: 30px;
-  border-top: 2 solid black;
+  border-top: 2px solid black;
   }
   .pie-detalle{
     margin-left: 200px;
@@ -377,7 +377,7 @@ border-top: 2 solid black;
   .header-presentacion{
     background: rgb(171, 210, 202);
     display: flex;
-    border-bottom: 2 solid black;
+    border-bottom: 2px solid black;
   }
   .div-presentacion{
     background: linear-gradient(180deg, rgba(0,0,0,1) -47%, rgba(242,193,164,1) 0%, rgba(255,255,255,1) 72%);
@@ -443,7 +443,7 @@ border-top: 2 solid black;
   padding-left: 5px;
   margin-bottom: 0;
   margin-top: 30px;
-  border-top: 2 solid black;
+  border-top: 2px solid black;
   }
   .pie-presentacion{
     margin-left: 200px;
@@ -490,7 +490,7 @@ border-top: 2 solid black;
   .header-enlaces{
     background: rgb(171, 210, 202);
     display: flex;
-    border-bottom: 2 solid black;
+    border-bottom: 2px solid black;
   }
   .div-enlaces{
     background: linear-gradient(180deg, rgba(0,0,0,1) -47%, rgba(242,193,164,1) 0%, rgba(255,255,255,1) 72%);
@@ -557,7 +557,7 @@ border-top: 2 solid black;
     padding-left: 5px;
     margin-bottom: 0;
     margin-top: 30px;
-    border-top: 2 solid black;
+    border-top: 2px solid black;
     }
     .pie-enlaces{
       margin-left: 200px;
