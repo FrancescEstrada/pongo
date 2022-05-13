@@ -721,7 +721,7 @@ border-top: 2px solid #000000;
 
 }
 .pongo-index{
-  -webkit-clip-path: circle(40% at 50% 50%);
+  clip-path: circle(40% at 50% 50%);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
