@@ -1,0 +1,34 @@
+{
+  "name": "francescestrada",
+  "source": "src/index.html",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {
+    "events": "^3.3.0",
+    "lodash": "^4.17.21",
+    "os-browserify": "^0.3.0",
+    "parcel": "^2.4.1",
+    "path-browserify": "^1.0.1",
+    "process": "^0.11.10",
+    "stream-browserify": "^3.0.0",
+    "util": "^0.12.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/francescestrada/pongo.git"
+  },
+  "scripts": {
+    "dev": "parcel index.html",
+    "start": "parcel src/index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "browserslist": "defaults",
+    "react": "^18.0.0",
+    "sharp": "^0.30.6"
+  }
+}
